@@ -4,9 +4,6 @@
 * Code examples
 * Computer Science
 * Practice programming skills via projects...
-   
-## Preview image: 
-![](https://github.com/AEChabok/Programming-Book/blob/main/Configs/book-list.png)
 
 ## You Can:
 * Fork my responsitory
