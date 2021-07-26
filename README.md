@@ -6,7 +6,7 @@
 * Practice programming skills via projects...
    
 ## Preview image: 
-![](https://github.com/AEChabok/Programming-Book/Configs/book-list.png)
+![](https://github.com/AEChabok/Programming-Book/blob/main/Configs/book-list.png)
 
 ## You Can:
 * Fork my responsitory
